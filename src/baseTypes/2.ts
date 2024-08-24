@@ -1,5 +1,5 @@
-let anything = -20;
-anything = 'Text';
-anything = {};
+let anything: any = 42;
+anything = "Hello";
+anything = { name: "Max" };
 
 export {};
